@@ -111,6 +111,14 @@ li:not(:last-child) {
   html {
     font-size: 13px;
   }
+
+  button {
+    width: 55%;
+  }
+
+  article {
+    padding: 3rem 0 3rem 6rem;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
